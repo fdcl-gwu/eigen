@@ -8,4 +8,4 @@ Eigen is a C++ template library for linear algebra: matrices, vectors, numerical
 For more information go to http://eigen.tuxfamily.org/.
 
 ## Updated ReadMe
-This is cloned to FDCL so that all the codes which uses Eigen will have a way to get it easily.
+This is cloned to FDCL so that all the codes which uses Eigen will have a way to get it easily, and also as a backup in case original sources are removed.
